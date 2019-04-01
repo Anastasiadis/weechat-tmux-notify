@@ -12,7 +12,8 @@
 # Original author: lavaramano <lavaramano AT gmail DOT com>
 
 import weechat,  string, os
-
+#ta parakatw einai malakies
+#sdkfhgsdkfjg
 weechat.register("tmuxnotify", "lukaszkorecki", "0.1", "GPL", "tmuxnotify: weechat notifications in tmux", "", "")
 
 # script options
